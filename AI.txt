@@ -1,0 +1,102 @@
+<tbody data-v-794b9fd0="">
+ <tr data-v-794b9fd0="">
+  <td data-v-794b9fd0="">09-06-2021 21:41</td> 
+  <td data-v-794b9fd0=""><img data-v-794b9fd0="" src="https://ai.marketing/service/fs/partners/mac.png" alt="Maccosmetics" class="icon-logo" style="max-height: 35px;" /></td> 
+  <td data-v-794b9fd0="">21.23 $</td> 
+  <td data-v-794b9fd0="">6.50 %</td> 
+  <td data-v-794b9fd0="">0.76 $</td> 
+  <td data-v-794b9fd0="">0.62 $</td> 
+  <td data-v-794b9fd0="">≈49 days</td> 
+  <td data-v-794b9fd0="">Pending</td>
+ </tr>
+ <tr data-v-794b9fd0="">
+  <td data-v-794b9fd0="">09-06-2021 20:43</td> 
+  <td data-v-794b9fd0=""><img data-v-794b9fd0="" src="https://ai.marketing/service/fs/partners/Lightinthebox.jpg" alt="Lightinthebox" class="icon-logo" style="max-height: 35px;" /></td> 
+  <td data-v-794b9fd0="">6.71 $</td> 
+  <td data-v-794b9fd0="">7.00 %</td> 
+  <td data-v-794b9fd0="">0.26 $</td> 
+  <td data-v-794b9fd0="">0.21 $</td> 
+  <td data-v-794b9fd0="">≈30 days</td> 
+  <td data-v-794b9fd0="">Pending</td>
+ </tr>
+ <tr data-v-794b9fd0="">
+  <td data-v-794b9fd0="">09-06-2021 20:07</td> 
+  <td data-v-794b9fd0=""><img data-v-794b9fd0="" src="https://res.cloudinary.com/df0opvonh/image/upload/v1588055801/logos/walmart_mgdvbl.png" alt="Walmart" class="icon-logo" style="max-height: 35px;" /></td> 
+  <td data-v-794b9fd0="">55.00 $</td> 
+  <td data-v-794b9fd0="">1.00 %</td> 
+  <td data-v-794b9fd0="">0.30 $</td> 
+  <td data-v-794b9fd0="">0.25 $</td> 
+  <td data-v-794b9fd0="">≈30 days</td> 
+  <td data-v-794b9fd0="">Pending</td>
+ </tr>
+ <tr data-v-794b9fd0="">
+  <td data-v-794b9fd0="">09-06-2021 20:00</td> 
+  <td data-v-794b9fd0=""><img data-v-794b9fd0="" src="https://ai.marketing/service/fs/partners/fairyseason.jpeg" alt="Fairyseason" class="icon-logo" style="max-height: 35px;" /></td> 
+  <td data-v-794b9fd0="">46.40 $</td> 
+  <td data-v-794b9fd0="">10.00 %</td> 
+  <td data-v-794b9fd0="">2.55 $</td> 
+  <td data-v-794b9fd0="">2.09 $</td> 
+  <td data-v-794b9fd0="">≈24 days</td> 
+  <td data-v-794b9fd0="">Pending</td>
+ </tr>
+ <tr data-v-794b9fd0="">
+  <td data-v-794b9fd0="">09-06-2021 19:50</td> 
+  <td data-v-794b9fd0=""><img data-v-794b9fd0="" src="https://ai.marketing/service/fs/partners/Tomtop.jpg" alt="Tomtop" class="icon-logo" style="max-height: 35px;" /></td> 
+  <td data-v-794b9fd0="">11.83 $</td> 
+  <td data-v-794b9fd0="">6.00 %</td> 
+  <td data-v-794b9fd0="">0.39 $</td> 
+  <td data-v-794b9fd0="">0.32 $</td> 
+  <td data-v-794b9fd0="">≈48 days</td> 
+  <td data-v-794b9fd0="">Pending</td>
+ </tr>
+ <tr data-v-794b9fd0="">
+  <td data-v-794b9fd0="">09-06-2021 19:33</td> 
+  <td data-v-794b9fd0=""><img data-v-794b9fd0="" src="https://ai.marketing/service/fs/partners/TVC-mall.jpg" alt="TVC-mall" class="icon-logo" style="max-height: 35px;" /></td> 
+  <td data-v-794b9fd0="">30.33 $</td> 
+  <td data-v-794b9fd0="">6.00 %</td> 
+  <td data-v-794b9fd0="">1.00 $</td> 
+  <td data-v-794b9fd0="">0.82 $</td> 
+  <td data-v-794b9fd0="">≈21 days</td> 
+  <td data-v-794b9fd0="">Pending</td>
+ </tr>
+ <tr data-v-794b9fd0="">
+  <td data-v-794b9fd0="">09-06-2021 19:15</td> 
+  <td data-v-794b9fd0=""><img data-v-794b9fd0="" src="https://ai.marketing/service/fs/partners/Agoda.jpg" alt="Agoda" class="icon-logo" style="max-height: 35px;" /></td> 
+  <td data-v-794b9fd0="">126.00 $</td> 
+  <td data-v-794b9fd0="">6.00 %</td> 
+  <td data-v-794b9fd0="">4.16 $</td> 
+  <td data-v-794b9fd0="">3.40 $</td> 
+  <td data-v-794b9fd0="">≈76 days</td> 
+  <td data-v-794b9fd0="">Pending</td>
+ </tr>
+ <tr data-v-794b9fd0="">
+  <td data-v-794b9fd0="">09-06-2021 15:46</td> 
+  <td data-v-794b9fd0=""><img data-v-794b9fd0="" src="https://ai.marketing/service/fs/partners/Teknistore.png" alt="Teknistore" class="icon-logo" style="max-height: 35px;" /></td> 
+  <td data-v-794b9fd0="">23.95 $</td> 
+  <td data-v-794b9fd0="">3.80 %</td> 
+  <td data-v-794b9fd0="">0.50 $</td> 
+  <td data-v-794b9fd0="">0.41 $</td> 
+  <td data-v-794b9fd0="">≈32 days</td> 
+  <td data-v-794b9fd0="">Pending</td>
+ </tr>
+ <tr data-v-794b9fd0="">
+  <td data-v-794b9fd0="">09-06-2021 15:44</td> 
+  <td data-v-794b9fd0=""><img data-v-794b9fd0="" src="https://ai.marketing/service/fs/partners/Whatwears.jpg" alt="Whatwears" class="icon-logo" style="max-height: 35px;" /></td> 
+  <td data-v-794b9fd0="">73.80 $</td> 
+  <td data-v-794b9fd0="">15.00 %</td> 
+  <td data-v-794b9fd0="">6.09 $</td> 
+  <td data-v-794b9fd0="">4.98 $</td> 
+  <td data-v-794b9fd0="">≈39 days</td> 
+  <td data-v-794b9fd0="">Pending</td>
+ </tr>
+ <tr data-v-794b9fd0="">
+  <td data-v-794b9fd0="">09-06-2021 07:18</td> 
+  <td data-v-794b9fd0=""><img data-v-794b9fd0="" src="https://ai.marketing/service/fs/partners/ormatek.png" alt="Ormatek" class="icon-logo" style="max-height: 35px;" /></td> 
+  <td data-v-794b9fd0="">217.00 $</td> 
+  <td data-v-794b9fd0="">5.00 %</td> 
+  <td data-v-794b9fd0="">5.97 $</td> 
+  <td data-v-794b9fd0="">4.88 $</td> 
+  <td data-v-794b9fd0="">≈19 days</td> 
+  <td data-v-794b9fd0="">Pending</td>
+ </tr>
+</tbody>
